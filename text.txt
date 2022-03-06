@@ -1,1 +1,3 @@
-This is all about git I'm going to learn
+This is all about git I'm going to learn.
+If I change this then this will happen
+
